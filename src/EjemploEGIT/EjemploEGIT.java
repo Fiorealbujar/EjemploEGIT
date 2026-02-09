@@ -6,6 +6,7 @@ public class EjemploEGIT {
 		System.out.println("Ejemplo GIT desde Eclipse");
 		System.out.println("Primer cambio desde master");
 		System.out.println("Primer cambio rama 1");
+		System.out.println("Tercer Commit desde master");
 	}
 
 }
