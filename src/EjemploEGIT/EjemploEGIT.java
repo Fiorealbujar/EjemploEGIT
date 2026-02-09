@@ -7,6 +7,8 @@ public class EjemploEGIT {
 		System.out.println("Primer cambio desde master");
 		System.out.println("Primer cambio rama 1");
 		System.out.println("Tercer Commit desde master");
+		System.out.println("Primer cambio Rama 1");
+		System.out.println("Segundo cambio Rama 1");
 	}
 
 }
